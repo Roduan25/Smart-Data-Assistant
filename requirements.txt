@@ -1,0 +1,10 @@
+streamlit
+pandas
+langchain-google-genai
+langchain-experimental
+matplotlib
+seaborn
+sqlalchemy
+psycopg2-binary
+openpyxl
+xlrd
